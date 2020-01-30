@@ -1,4 +1,5 @@
 Writing in Markdown is not that hard!
+Maybe it is **KINDA** hard
 
 I **will** learn something here.
 the double star **makes** it bold
